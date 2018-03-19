@@ -10,11 +10,9 @@ p {
   font-size: 10pt;
   line-height: 17pt;
 }
-//*
-a {
+h4 a {
   color: #ffffff;
 }
-*//
 .clear {
   clear: both;
 }
