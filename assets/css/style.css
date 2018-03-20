@@ -4,6 +4,9 @@
 .fix {
   overflow: hidden;
 }
+.feature-img h2{
+  color: #767270;
+}
 p {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
