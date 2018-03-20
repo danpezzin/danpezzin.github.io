@@ -4,7 +4,7 @@
 .fix {
   overflow: hidden;
 }
-.feature-img h2{
+.title col s12 m12 l9 right wow fadeIn animated h2{
   color: #767270;
 }
 p {
