@@ -4,7 +4,7 @@
 .fix {
   overflow: hidden;
 }
-#sidebar > div > div.heading > div.title.col.s12.m12.l9.right.wow.fadeIn.animated > a > h2{
+#sidebar h2{
   color: #ffffff !important;
 }
 p {
