@@ -134,7 +134,7 @@ body {
 }
 .sidebar .heading .title {
   position: absolute;
-  right: 11px;
+/*  right: 11px; */
   bottom: 46px;
 }
 .sidebar .heading .title span {
