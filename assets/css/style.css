@@ -282,7 +282,7 @@ body {
   text-align: left;
 }
 
-@media screen and (min-width:993px){
+@media screen and (max-width:993px){
   .sidebar .heading .title {
     right: 0px !important;
   }
